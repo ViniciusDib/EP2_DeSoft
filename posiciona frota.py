@@ -9,3 +9,4 @@ def posiciona_frota(frota):
     
     return tabuleiro
 #
+#
