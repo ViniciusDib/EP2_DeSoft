@@ -8,4 +8,4 @@ def posiciona_frota(frota):
                 tabuleiro[linha][coluna] = 1
     
     return tabuleiro
-    
+#
