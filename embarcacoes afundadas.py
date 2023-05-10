@@ -15,3 +15,4 @@ def afundados (frota, tabuleiro):
                 contador += 1
     
     return contador
+#
